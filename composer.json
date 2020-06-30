@@ -1,5 +1,5 @@
 {
-    "name": "nordsoftware/lumen-newrelic",
+    "name": "baracaio/lumen-newrelic",
     "description": "This is a fork to support lumen 7.x, please go for nordsoftware/lumen-newrelic ",
     "type": "library",
     "license": "MIT",
