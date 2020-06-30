@@ -1,6 +1,6 @@
 {
     "name": "nordsoftware/lumen-newrelic",
-    "description": "New Relic instrumentation for the Lumen framework",
+    "description": "This is a fork to support lumen 7.x, please go for nordsoftware/lumen-newrelic ",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,11 +12,11 @@
     "require": {
         "php": "^7.1",
         "intouch/newrelic": "^1.0",
-        "illuminate/support": "^5.5|^6.0",
+        "illuminate/support": "^5.5|^6.0|^7.0",
         "nordsoftware/lumen-chained-exception-handler": "^1.0"
     },
     "require-dev": {
-        "laravel/lumen-framework": "^5.5|^6.0",
+        "laravel/lumen-framework": "^5.5|^6.0|^7.0",
         "phpunit/phpunit": "^7.5"
     },
     "autoload": {
